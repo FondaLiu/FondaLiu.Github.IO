@@ -1,3 +1,3 @@
 # FondaLiu.Github.IO
-Personal  Websit
-welcom  to Fonda's Programming  colorful  World!
+Personal  Websit,
+   Welcom  to Fonda's Programming  colorful  World!
